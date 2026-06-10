@@ -22,7 +22,6 @@ This repository contains a Power BI dashboard showcasing sales and profit perfor
 ## 📁 Files Included
 
 - `Capture.PNG`: Screenshot of the dashboard
-- `Dashboard.pbix`: (Optional) Power BI project file
 
 ## 📌 Note
 
